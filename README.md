@@ -8,18 +8,18 @@ Hands-on resources for the **Copilot Cowork Masterclass** — everything you nee
 1. **Watch/skim** the deck and recording (links below).
 2. **Grab the sample files** in [`sample-files/`](./sample-files) and upload the ones you need into your own Copilot Cowork.
 3. **Work the challenges** in [`labs-and-challenges/`](./labs-and-challenges) — self-paced, step-by-step.
-4. **Steal prompts** from the [Prompt Bank](./prompt-bank.md) and pin the [Cheat Sheet](./cheat-sheet.pdf).
+4. **Steal prompts** from the [Prompt Bank](/docs/prompt-bank.md) and pin the [Cheat Sheet](/docs/cheat-sheet.pdf).
 
 ## What's in here
 | Folder / file | What it is |
 |---|---|
 | [`labs-and-challenges/`](./labs-and-challenges) | Guides for challenges and labs |
-| [`prompt-bank.md`](./prompt-bank.md) | Copy-paste prompt library, by category |
-| [`cheat-sheet.pdf`](./cheat-sheet.pdf) / `.png` | One-page quick reference (which tool · model & cost · prompt anatomy) |
+| [`prompt-bank.md`](/docs/prompt-bank.md) | Copy-paste prompt library, by category |
+| [`cheat-sheet.pdf`](/docs/cheat-sheet.pdf) / `.png` | One-page quick reference (which tool · model & cost · prompt anatomy) |
 | [`skills-starter-kit/`](./skills-starter-kit) | SKILL.md template + worked examples |
 | [`sample-files/`](./sample-files) | Fictional "Northwind Traders / Project Atlas" dataset |
-| [`resources.md`](./resources.md) | Official docs and links and slide deck |
-| [`glossary-and-faq.md`](./glossary-and-faq.md) | Plain-language glossary + FAQ (incl. answers for IT) |
+| [`resources.md`](/docs/resources.md) | Official docs and links and slide deck |
+| [`glossary-and-faq.md`](/docs/glossary-and-faq.md) | Plain-language glossary + FAQ (incl. answers for IT) |
 
 ## Links
 - **Slides (PDF):** [`Slide Deck`](/docs/CoworkMasterclassFinal.pdf)
