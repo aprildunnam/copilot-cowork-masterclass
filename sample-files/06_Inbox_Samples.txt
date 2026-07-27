@@ -1,0 +1,39 @@
+=== Email 1 ===
+From: Weekly Ops Digest <digest@northwindtraders.com>
+Subject: Ops Digest — 12 stories this week
+Newsletter: warehouse metrics, a new hire, cafeteria menu, parking changes... (low priority)
+
+=== Email 2 ===
+From: Priya Nair
+Subject: NEED BY EOD: order-to-ship baseline numbers
+Priya needs your review of the baseline before the 2pm kickoff. Action required.
+
+=== Email 3 ===
+From: Contoso Cloud <billing@contoso.com>
+Subject: Your Inventory Sync contract renews Aug 15
+Reminder that the contract auto-renews. Decision needed before then.
+
+=== Email 4 ===
+From: Industry Weekly <news@industryweekly.com>
+Subject: 7 supply-chain trends for 2026
+Newsletter, informational only.
+
+=== Email 5 ===
+From: Dana Osei
+Subject: Training dates — can you confirm week 7?
+Needs a yes/no on proposed UAT training dates. Quick reply.
+
+=== Email 6 ===
+From: HR
+Subject: Reminder: complete your annual compliance training
+Due in 2 weeks. Low urgency.
+
+=== Email 7 ===
+From: Sam Whitfield
+Subject: Duplicate SKUs blocking data mapping
+Flagging a blocker on the migration; wants 15 min today. Action required.
+
+=== Email 8 ===
+From: Coffee Club
+Subject: Bean of the month is here!
+Noise.

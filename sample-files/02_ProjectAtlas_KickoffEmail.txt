@@ -1,0 +1,32 @@
+From: April Dunnam <april@northwindtraders.com>
+To: Project Atlas Team
+Cc: VP Operations
+Subject: Project Atlas — kickoff Thursday 2:00 PM
+
+Team,
+
+Kicking off Project Atlas this week. Quick context before Thursday's 2pm:
+
+- Goal: one cloud order-processing platform, 30% faster order-to-ship by end of Q3.
+- Marco is leading architecture; Priya owns ops requirements; Dana runs change/training; Sam owns the data migration.
+- Two open decisions I need input on: UAT sign-off owner, and parallel-run vs. freeze at cutover.
+
+Please come Thursday with: your top risk, your first-week deliverable, and any dependency you're worried about.
+
+Marco — can you bring the draft integration diagram?
+Priya — can you pull the current order-to-ship baseline numbers?
+
+Thanks,
+April
+
+---
+From: Marco Reyes
+Subject: RE: Project Atlas — kickoff Thursday 2:00 PM
+
+Diagram will be ready. One flag: the inventory-sync vendor contract auto-renews on Aug 15 — we should decide before then. — Marco
+
+---
+From: Priya Nair
+Subject: RE: Project Atlas — kickoff Thursday 2:00 PM
+
+Baseline is ~4.2 days order-to-ship. I'll have the breakdown by Wednesday. Peak season staffing is my top risk. — Priya

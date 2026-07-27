@@ -1,0 +1,73 @@
+<!doctype html><html><head><meta charset="utf-8"><style>
+@page{size:11in 5.2in;margin:0}
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Segoe UI',Calibri,Arial,sans-serif}
+body{width:11in;height:5.2in;background:#fff;color:#1a1a1a;padding:0.34in 0.4in}
+.hdr{display:flex;align-items:baseline;justify-content:space-between;border-bottom:3px solid #E8327A;padding-bottom:7px;margin-bottom:12px}
+.hdr h1{font-size:25px;color:#111}.hdr h1 b{color:#E8327A}
+.hdr .sub{font-size:12px;color:#6B6B6B}
+.grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:12px}
+.card{border:1px solid #E7E7F0;border-radius:10px;padding:11px 13px;background:#FBFBFE}
+.card h2{font-size:11px;letter-spacing:1.5px;color:#E8327A;text-transform:uppercase;margin-bottom:8px}
+.row{display:flex;gap:7px;margin-bottom:6px;font-size:12.5px;line-height:1.3}
+.tool{font-weight:700;color:#111;min-width:96px}
+.tell{color:#4A4A55}
+.pill{display:inline-block;font-weight:700;font-size:11px;color:#fff;border-radius:20px;padding:1px 8px}
+.k{font-weight:700;color:#111}
+ul{list-style:none}li{font-size:12.5px;color:#333;margin-bottom:5px;line-height:1.3;padding-left:14px;position:relative}
+li:before{content:'▸';color:#E8327A;position:absolute;left:0}
+.prompt{font-family:Consolas,monospace;font-size:11px;background:#fff;border:1px solid #EADDE6;border-left:3px solid #E8327A;border-radius:4px;padding:5px 8px;margin-bottom:5px;color:#333}
+.full{grid-column:1 / -1}
+.two{grid-column:span 2}
+.foot{display:flex;justify-content:space-between;align-items:center;margin-top:11px;font-size:11px;color:#6B6B6B}
+.badge{background:#E8327A;color:#fff;font-weight:800;font-size:13px;border-radius:7px;padding:4px 8px}
+.cost{font-weight:800}.g{color:#2E7D32}.a{color:#C77700}.p{color:#E8327A}
+.note{background:#FCE7F1;border-radius:8px;padding:8px 12px;font-size:12px;color:#B0246A;font-weight:600}
+</style></head><body>
+<div class="hdr"><h1>Copilot <b>Cowork</b> — Cheat Sheet</h1><div class="sub">Your AI coworker in Microsoft 365 · keep this pinned</div></div>
+<div class="grid">
+  <div class="card">
+    <h2>Which tool?</h2>
+    <div class="row"><span class="tool">M365 Copilot</span><span class="tell">A quick answer or edit, in the flow of one app.</span></div>
+    <div class="row"><span class="tool">Cowork</span><span class="tell">A whole multi-step job you delegate across apps.</span></div>
+    <div class="row"><span class="tool">Scout</span><span class="tell">Ongoing, proactive help that comes to you.</span></div>
+    <div style="margin-top:7px;font-size:11px;color:#6B6B6B"><b>Team layer:</b> Copilot Studio &amp; Power Automate — built once, for many.</div>
+  </div>
+  <div class="card">
+    <h2>Model &amp; cost</h2>
+    <ul>
+      <li><span class="k">Start on Auto</span> — picks the best model per task.</li>
+      <li><span class="cost g">$</span> <b>Sonnet</b> — everyday work, best value (~$4/task).</li>
+      <li><span class="cost a">$$</span> <b>Opus</b> — complex, high-stakes (~$5).</li>
+      <li><span class="cost p">$$$</span> <b>GPT / heavy</b> — deep work (~$11).</li>
+      <li>Type <span class="k">/cost</span> to see credits spent.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>Great prompt = 4 parts</h2>
+    <ul>
+      <li><span class="k">Goal</span> — the outcome you want.</li>
+      <li><span class="k">Context</span> — role, audience, why.</li>
+      <li><span class="k">Sources</span> — the files, people, dates.</li>
+      <li><span class="k">Format</span> — brief, table, email…</li>
+    </ul>
+    <div style="margin-top:6px;font-size:11px;color:#4A4A55"><i>"Prep me for my 2pm" beats "help with my meeting."</i></div>
+  </div>
+  <div class="card two">
+    <h2>Steal these prompts</h2>
+    <div class="prompt">Run my daily brief: calendar, emails that need me, top 3 priorities.</div>
+    <div class="prompt">Prep me for my [time] meeting — invite, attendees, related docs, a briefing.</div>
+    <div class="prompt">Read the contracts in [folder] and table each renewal date.</div>
+    <div class="prompt">Save this as a skill called "[name]"; trigger on "[phrase]".</div>
+  </div>
+  <div class="card">
+    <h2>Stay in control</h2>
+    <ul>
+      <li>It <span class="k">previews actions</span> — approve before it sends/posts.</li>
+      <li>Outputs land in <span class="k">OneDrive ▸ Cowork</span>.</li>
+      <li>It only sees what <span class="k">you</span> can already access.</li>
+      <li>Turn repeat tasks into <span class="k">Skills</span> to save credits.</li>
+    </ul>
+  </div>
+</div>
+<div class="foot"><div class="badge">AD</div><div class="note">Delegate the outcome — not every step. Describe what "done" looks like and let Cowork plan the work.</div><div>Copilot Cowork Masterclass · April Dunnam</div></div>
+</body></html>

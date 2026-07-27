@@ -1,0 +1,10 @@
+Week,Milestone,PercentComplete,Owner,Status,Blocker
+1,Discovery & requirements,100,Priya Nair,Complete,None
+2,Requirements sign-off,100,April Dunnam,Complete,None
+3,Environment setup,90,Marco Reyes,On Track,Awaiting license keys
+4,Data mapping,70,Sam Whitfield,At Risk,Duplicate SKUs in legacy export
+5,Core build,45,Marco Reyes,On Track,None
+6,Integration testing,10,Marco Reyes,Not Started,Depends on data mapping
+7,UAT,0,Dana Osei,Not Started,UAT sign-off owner TBD
+8,Training,0,Dana Osei,Not Started,None
+9,Go-live,0,April Dunnam,Not Started,Parallel-run decision pending

@@ -1,42 +1,34 @@
-# Microsoft Copilot Cowork Masterclass
+# Copilot Cowork Masterclass
 
-Welcome to the official resource repository for the **Microsoft Copilot Cowork Masterclass**! 🚀
+Hands-on resources for the **Copilot Cowork Masterclass** — everything you need to keep practicing after the session, in your own Microsoft 365 tenant.
 
-This repo contains everything you need to get the most out of the training: slides, notes, sample files, hands-on challenge prompts, and curated resources.
+> The slides are the textbook and the recording is the lecture. **This repo is the lab manual**, open it when you sit down to actually try Cowork.
 
-🎟️ **Event:** [Microsoft Copilot Cowork Masterclass on Eventbrite](https://www.eventbrite.co.uk/e/microsoft-copilot-cowork-masterclass-tickets-1990549050795)
-👩‍💻 **Trainer:** [April Dunnam](https://github.com/aprildunnam)
+## Start here
+1. **Watch/skim** the deck and recording (links below).
+2. **Grab the sample files** in [`sample-files/`](./sample-files) and upload the ones you need into your own Copilot Cowork.
+3. **Work the challenges** in [`labs-and-challenges/`](./labs-and-challenges) — self-paced, step-by-step.
+4. **Steal prompts** from the [Prompt Bank](./prompt-bank.md) and pin the [Cheat Sheet](./cheat-sheet.pdf).
 
----
-
-## 📚 What's in This Repo
-
-| Folder / File | Description |
+## What's in here
+| Folder / file | What it is |
 |---|---|
-| [`docs/overview.md`](docs/overview.md) | What is Copilot Cowork and why it matters |
-| [`docs/presentation.md`](docs/presentation.md) | Presentation outline and key talking points |
-| [`docs/resources.md`](docs/resources.md) | Curated links, documentation, and learning paths |
-| [`challenges/`](challenges/) | Interactive hands-on challenge prompts |
-| [`samples/`](samples/) | Sample files used during the training |
+| [`labs-and-challenges/`](./labs-and-challenges) | Guides for challenges and labs |
+| [`prompt-bank.md`](./prompt-bank.md) | Copy-paste prompt library, by category |
+| [`cheat-sheet.pdf`](./cheat-sheet.pdf) / `.png` | One-page quick reference (which tool · model & cost · prompt anatomy) |
+| [`skills-starter-kit/`](./skills-starter-kit) | SKILL.md template + worked examples |
+| [`sample-files/`](./sample-files) | Fictional "Northwind Traders / Project Atlas" dataset |
+| [`resources.md`](./resources.md) | Official docs and links |
+| [`glossary-and-faq.md`](./glossary-and-faq.md) | Plain-language glossary + FAQ (incl. answers for IT) |
+| `deck/` | PDF of the slide deck |
+
+## Links
+- **Slides (PDF):** _add link_
+- **Session recording:** Will be added after the Master Class
+- **Presenter:** April Dunnam — _add blog / LinkedIn / YouTube links_
+
+## How to use these in your own tenant
+You work entirely in **your own Microsoft 365**. Cowork only ever sees what you already have access to. Upload the sample files (drag them into the chat, or drop them in **OneDrive ▸ Documents ▸ Cowork**), then run the exercise prompts. Rename files clearly first — Cowork finds files and triggers skills on your words.
 
 ---
-
-## 🗂️ Getting Started
-
-1. Read the [Overview](docs/overview.md) to understand what Microsoft Copilot Cowork is.
-2. Follow along with the [Presentation](docs/presentation.md) during the live session.
-3. Work through the [Interactive Challenges](challenges/README.md) to practice what you've learned.
-4. Explore the [Sample Files](samples/README.md) for real-world examples.
-5. Check out the [Resources](docs/resources.md) for further learning.
-
----
-
-## 🤝 Contributing
-
-Found a broken link, typo, or want to suggest an addition? Feel free to open an issue or pull request!
-
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
+_Built for the Copilot Cowork Masterclass. Sample data is fictional._
