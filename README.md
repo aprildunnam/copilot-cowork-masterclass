@@ -18,14 +18,13 @@ Hands-on resources for the **Copilot Cowork Masterclass** — everything you nee
 | [`cheat-sheet.pdf`](./cheat-sheet.pdf) / `.png` | One-page quick reference (which tool · model & cost · prompt anatomy) |
 | [`skills-starter-kit/`](./skills-starter-kit) | SKILL.md template + worked examples |
 | [`sample-files/`](./sample-files) | Fictional "Northwind Traders / Project Atlas" dataset |
-| [`resources.md`](./resources.md) | Official docs and links |
+| [`resources.md`](./resources.md) | Official docs and links and slide deck |
 | [`glossary-and-faq.md`](./glossary-and-faq.md) | Plain-language glossary + FAQ (incl. answers for IT) |
-| `deck/` | PDF of the slide deck |
 
 ## Links
-- **Slides (PDF):** _add link_
+- **Slides (PDF):** [`Slide Deck`](/docs/CoworkMasterclassFinal.pdf)
 - **Session recording:** Will be added after the Master Class
-- **Presenter:** April Dunnam — _add blog / LinkedIn / YouTube links_
+- **Presenter:** April Dunnam
 
 ## How to use these in your own tenant
 You work entirely in **your own Microsoft 365**. Cowork only ever sees what you already have access to. Upload the sample files (drag them into the chat, or drop them in **OneDrive ▸ Documents ▸ Cowork**), then run the exercise prompts. Rename files clearly first — Cowork finds files and triggers skills on your words.

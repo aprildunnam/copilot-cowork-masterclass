@@ -9,6 +9,7 @@
 - [Get started with Cowork — Microsoft Support](https://support.microsoft.com/en-us/microsoft-365-copilot/get-started-with-cowork)
 - [Copilot Cowork product page](https://www.microsoft.com/en-us/microsoft-365-copilot/cowork)
 - [Announcement blog: Copilot Cowork — a new way of getting work done](https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/09/copilot-cowork-a-new-way-of-getting-work-done/)
+- [Hands on Labs in Agent Academy](https://aka.ms/cowork-collective)
 
 ## In this repo
 - [Prompt Bank](./prompt-bank.md)
@@ -16,10 +17,9 @@
 - [Labs & Challenges](./labs-and-challenges)
 - [Skills Starter Kit](./skills-starter-kit)
 - [Glossary & FAQ](./glossary-and-faq.md)
+- [Slide Deck](/docs/CoworkMasterclassFinal.pdf)
 
 ## From your host
-- **Blog:** _add link_
-- **LinkedIn:** _add link_
-- **YouTube:** _add link_
-
-> Links current as of the session date. If a doc URL has moved, search "Copilot Cowork" on Microsoft Learn.
+- **Blog:** [https://www.aprildunnam.com](https://www.aprildunnam.com)
+- **LinkedIn:** [https://www.linkedin.com/in/aprildunnam](https://www.linkedin.com/in/aprildunnam)
+- **YouTube:** [https://youtube.com/@aprildunnam](https://youtube.com/@aprildunnam)
